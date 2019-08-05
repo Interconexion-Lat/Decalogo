@@ -4,10 +4,10 @@
 
 Para ello nace Interconexión.lat, un espacio de creación y concenso de protocolos, proyectos e ideas que buscan facilitar el trabajo con datos, construir bases de datos comunes y proyectos de código que podamos rehusar todos. No se trata de volver a a empezar, sino a partir de todo el trabajo realizado ver como encontramos los puntos en común en la región para escalar y compartir aprendizajes.
 
-Tenemos un primer (Decálogo por la interconexión latinoamericana de datos)[https://github.com/Interconexion-Lat/Decalogo/blob/master/Decalogo.md] que busca generar una discusión sobre como podemos hacer esa útopia. La discusión tendrá un espacio físico en Abretalam, seguirá en GitHub y esperamos que mute hacia otros espacios siempre con el objetivo de construir concenso que nos permita compartir datos y código para la rendición de cuentas. 
+Tenemos un primer [Decálogo por la interconexión latinoamericana de datos](https://github.com/Interconexion-Lat/Decalogo/blob/master/Decalogo.md) que busca generar una discusión sobre como podemos hacer esa útopia. La discusión tendrá un espacio físico en Abretalam, seguirá en GitHub y esperamos que mute hacia otros espacios siempre con el objetivo de construir concenso que nos permita compartir datos y código para la rendición de cuentas. 
 
 ## [Lee el Dècalogo](https://github.com/Interconexion-Lat/Decalogo/blob/master/Decalogo.md)  
-**[Listado de organizaciones firmantes)](https://github.com/Interconexion-Lat/Decalogo/blob/master/firmantes.md)**  
+**[Listado de organizaciones firmantes](https://github.com/Interconexion-Lat/Decalogo/blob/master/firmantes.md)**  
 *-> Adheriete al Décalogo en este [documento Google Docs](https://docs.google.com/document/d/1Vr7APtWAcdic4oeN-vC8TiXBjtAozjDLucAr_C33K4w/edit)*  
 
 
