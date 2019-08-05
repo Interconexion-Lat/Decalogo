@@ -22,6 +22,6 @@ Para iniciar el diálogo lanzamos este primer decálogo que esperamos poder disc
 
 **8. Se potenciará el uso y desarrollo de software libre y la reutilización de forma simple del mismo.**
 
-**9. Los nuevos proyectos de análisis, obtención o visualización de datos estarán basados en los estandares consensuados en Interconexion.lat.**
+**9. Los nuevos proyectos de análisis, obtención o visualización de datos estarán basados en los estándares consensuados en Interconexion.lat.**
 
 **10. Siempre se buscará la colaboración en la realización de proyectos y la socialización de impactos y aprendizajes de los mismos.** 
