@@ -1,4 +1,4 @@
-# Sobre Inteconexión.lat
+# <div style="img-align:right"><img src="interconexion.png" height="75"  /></div>&nbsp;Sobre Inteconexión.lat 
 
 ¿Cómo podemos potenciar la interconexión latinoamericana de datos en sociedad civil? El trabajo que hemos realizado desde la comunidad de datos en América Latina ha sido efectivo, pero en demasiadas ocasiones no hemos conseguido superar los silos que son nuestras propias organizaciones y conectar datos de forma regional que nos permitan escalar proyectos e impactos. Vemos muy necesario movernos hacia ese paradigma.
 
