@@ -1,31 +1,27 @@
-Material gráfico Abrelatam/ConDatos 19:
+# Material gráfico Abrelatam/ConDatos 19:
 
-===========================
-Sitcker: 
-Tamaño: Pequeñito, quepa en todos lados
+## Sticker: 
+> Tamaño: Pequeñito, quepa en todos lados
 
-Compartamos datos + [logo]
+Compartamos datos + ```logo```
 
+## Flyer: 
+> Tamaño: medio, que quepa en un bolsillo
 
-==========================
-Flyer: 
-Tamaño: medio, que quepa en un bolsillo
-
-[En grande]
+```Muy destacado```
 ¿Cómo compartimos datos entre organizaciones de la sociedad civil? 
 
+```lectura comoda```
 Dialogo para poner las bases:
 - Jueves 29 de agosto de 15 a 17h
 - Salon de Side Events de ConDatos
 
-[Logo de Interconexión]
+```Logo de Interconexión en tamaño reconocible```
 
+## Póster: 
+> Tamaño: grande, debe llamar la atención
 
-============================
-Póster: 
-Tamaño: grande, debe llamar la atención
-
-[primera mitad – Titulo + logo + fechas. Muy visual y que se pueda leer de lejos]
+```primera mitad – Titulo + logo + fechas. Muy visual y que se pueda leer de lejos```
 
 ¿Cómo compartimos datos entre organizaciones de la sociedad civil?
 
@@ -33,7 +29,10 @@ Dialogo para poner las bases:
 - Jueves 29 de agosto de 15 a 17h
 - Salon de Side Events de ConDatos
 
-[Segunda mitad, texto en distintos cuadaros para que llame la atención]
+```Logo de Interconexión en tamaño reconocible```
+
+
+```Segunda mitad, texto en distintos cuadaros para que llame la atención```
 
 Para iniciar el diálogo lanzamos este primer decálogo que esperamos poder discutir, priorizar y asumir compromisos concretos en el marco de Abrelatam / Condatos 2019.
     1. Todos los datos y metadatos serán compartidos para su uso (al menos) dentro la red.
