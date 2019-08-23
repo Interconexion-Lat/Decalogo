@@ -14,7 +14,7 @@ Compartamos datos + ```logo```
 ```lectura comoda```
 Dialogo para poner las bases:
 - Jueves 29 de agosto de 15 a 17h
-- Salon de Side Events de ConDatos
+- Salon Salinas
 
 ```Logo de Interconexión en tamaño reconocible```
 
@@ -27,7 +27,7 @@ Dialogo para poner las bases:
 
 Dialogo para poner las bases:
 - Jueves 29 de agosto de 15 a 17h
-- Salon de Side Events de ConDatos
+- Salon de Salinas
 
 ```Logo de Interconexión en tamaño reconocible```
 
